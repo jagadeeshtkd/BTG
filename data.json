@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "test",
+      "address": "test",
+      "email": "test@abc.com",
+      "id": 1
+    },
+    {
+      "name": "test1",
+      "address": "tcs chennai",
+      "email": "test@abc.com",
+      "id": 2
+    },
+    {
+      "name": "narapareddy",
+      "address": "chennai",
+      "email": "narapareddy@tcs.com",
+      "id": 3
+    },
+    {
+      "name": "",
+      "address": "",
+      "email": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
